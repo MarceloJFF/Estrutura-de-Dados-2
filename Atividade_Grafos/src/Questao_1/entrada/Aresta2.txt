@@ -1,0 +1,15 @@
+A;B
+A;E
+A;G
+A;H
+A;F
+B;C
+B;D
+B;H
+B;F
+C;H
+D;E
+D;G
+E;F
+E;H
+F;G

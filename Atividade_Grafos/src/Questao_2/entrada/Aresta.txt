@@ -1,0 +1,9 @@
+Cueca;Calças
+Cueca;Sapatos
+Meias;Sapatos
+Calças;Cinto
+Calças;Sapatos
+Cinto;Paleto
+Camisa;Cinto
+Camisa;Gravata
+Camisa;Paleto

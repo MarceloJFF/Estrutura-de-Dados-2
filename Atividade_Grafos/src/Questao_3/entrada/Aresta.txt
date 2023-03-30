@@ -1,0 +1,9 @@
+10;São Luís;Manaus
+5;São Luís;Belem
+3;Belem;Manaus
+1;Manaus;Rio Branco
+8;Belem;Rio Branco
+2;Belem;Boa Vista
+4;Rio Branco;Boa Vista
+4Rio Branco;Buenos Aires
+6;Boa Vista;Buenos Aires  
